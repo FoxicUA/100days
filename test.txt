@@ -1,4 +1,4 @@
-This is my first commit.
+This is my another commit.
 
 D:\100Days_Dev_Challange\day12\git-basics>git config --global user.name 
 FoxicUA
