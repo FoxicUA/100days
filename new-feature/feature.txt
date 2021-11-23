@@ -1,6 +1,5 @@
+commit 73b0090af9563ae78e057d596cd9b4ec1fbaf86e (main)
+Author: Foxic <aleks.lisunov@gmail.com>
+Date:   Tue Nov 23 22:09:44 2021 +0200
 
-D:\100Days_Dev_Challange\day12\git-basics>git status
-On branch feature
-nothing to commit, working tree clean
-
-D:\100Days_Dev_Challange\day12\git-basics>
+    second commit
