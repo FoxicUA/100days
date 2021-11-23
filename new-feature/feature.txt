@@ -1,0 +1,6 @@
+
+D:\100Days_Dev_Challange\day12\git-basics>git status
+On branch feature
+nothing to commit, working tree clean
+
+D:\100Days_Dev_Challange\day12\git-basics>
